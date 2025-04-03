@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+snake_env/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
